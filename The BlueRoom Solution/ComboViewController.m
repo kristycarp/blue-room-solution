@@ -59,9 +59,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     self.table.dataSource = self;
-    UIColor *bgColor = [UIColor colorWithRed:272.0/255.0 green:200.0/255.0 blue:107.0/255.0 alpha:1.0];
     self.table.backgroundColor = [UIColor clearColor];
-    self.view.backgroundColor = bgColor;
+    self.view.backgroundColor = [UIColor whiteColor];
 }
 
 - (void)didReceiveMemoryWarning {

@@ -30,7 +30,7 @@
                     <rect key="frame" x="95" y="8" width="457" height="349"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     <variation key="widthClass=regular" fixedFrame="YES">
-                        <rect key="frame" x="95" y="27" width="457" height="454"/>
+                        <rect key="frame" x="13" y="0.0" width="457" height="454"/>
                     </variation>
                 </tableView>
             </subviews>
