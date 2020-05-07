@@ -1,5 +1,6 @@
 # The Blue Room Solution
 ##An iOS app to optimize your purchases
+##by Kristy Carpenter and Amy Wang, Hack@Brown 2017
 
 ### Inspiration
 The Blue Room is a popular eatery at Brown University featuring delicious baked goods and quick snacks. Each food item has a set a la carte price. If a Brown student buys food totaling exactly $7.60, they may use a meal swipe (instead of precious points) for their purchase. However, they must use up points if their food costs less, and they must supplement with points if their food costs more. We have dubbed this the "Blue Room Problem."
